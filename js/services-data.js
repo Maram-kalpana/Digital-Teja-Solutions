@@ -29,10 +29,10 @@ window.SERVICES_DATA = {
     "Our Application Migration & Modernization Services",
 
   sectionFourText:
-    "Software migration and modernization are crucial in a dynamic market condition. At Uptrend Tek, we develop an incremental development roadmap for application migration & modernization.",
+    "Software migration and modernization are crucial in a dynamic market condition. At Digital Teja Solutions, we develop an incremental development roadmap for application migration & modernization.",
 
   closingText:
-    "Uptrend Tek provides reliable application migration and modernization services with faster turnaround times and better ROI. We have a team of highly professional and dedicated developers who deliver best-in-class and innovative results.",
+    "Digital Teja Solutions provides reliable application migration and modernization services with faster turnaround times and better ROI. We have a team of highly professional and dedicated developers who deliver best-in-class and innovative results.",
 
   icon:
     "fa-solid fa-layer-group",
@@ -391,7 +391,7 @@ window.SERVICES_DATA = {
         "assets/services/android-app-development.jpg",
 
       paragraphs: [
-        "Uptrend Tek Develop user-friendly and customer driving android applications to boost your sales and build brand awareness. Organizations realized about the importance of mobile app like how they think about web development as first priority of online presence and for online marketing. As there is rapid growth in android apps usage and market, it is essential to develop customer-centric and competitive to meet your targeted business need. We understand your strategic planning and market to cover before developing an app.",
+        "Digital Teja Solutions Develop user-friendly and customer driving android applications to boost your sales and build brand awareness. Organizations realized about the importance of mobile app like how they think about web development as first priority of online presence and for online marketing. As there is rapid growth in android apps usage and market, it is essential to develop customer-centric and competitive to meet your targeted business need. We understand your strategic planning and market to cover before developing an app.",
 
         "The process flow in every mobile app development company will be through Planning, designing, developing, app testing & hosting on server then publishing on Google Play Store. We also provide app maintenance according to market change and customer expectations to stay ahead of competition.",
       ],
@@ -609,7 +609,7 @@ window.SERVICES_DATA = {
     "IT Consulting",
 
   pageTitle:
-    "IT Consulting | UpTrendTek",
+    "IT Consulting | Digital Teja Solutions",
 
   subtitle:
     "IT strategy consulting services from Radixweb utilize a customer-centric approach to offer strategic advice, support, and helps business add value from technology",
@@ -720,7 +720,7 @@ window.SERVICES_DATA = {
     "IT Staffing",
 
   pageTitle:
-    "IT Staffing | UpTrendTek",
+    "IT Staffing | Digital Teja Solutions",
 
   subtitle:
     "IT Staffing Services provide the extra talent needed to boost your projects, from fully managed teams to individual expert Engineers. These are the most common staffing models.",
@@ -803,7 +803,7 @@ window.SERVICES_DATA = {
     "UI-UX-Design",
 
   pageTitle:
-    "UI/UX Design | UpTrendTek",
+    "UI/UX Design | Digital Teja Solutions",
 
   subtitle:
     "Experience unmatched expertise and innovation in every aspect of UI/UX design. Our commitment to understanding your unique needs and delivering tailored solutions makes us the ideal partner for transforming your digital presence.",
@@ -914,10 +914,10 @@ window.SERVICES_DATA = {
     "Digital Marketing",
 
   pageTitle:
-    "Digital Marketing | UpTrendTek",
+    "Digital Marketing | Digital Teja Solutions",
 
   subtitle:
-    "Up Trend Tek is a leading digital marketing company, empowering brands to connect and engage with their audiences more effectively through comprehensive digital transformation. We enhance brand value online by combining performance-driven strategies, creative initiatives, cutting-edge methodologies, and innovative solutions. At Up Trend Tek, we help our clients grow their businesses by leveraging multiple digital marketing platforms and channels.",
+    "Digital Teja Solutions is a leading digital marketing company, empowering brands to connect and engage with their audiences more effectively through comprehensive digital transformation. We enhance brand value online by combining performance-driven strategies, creative initiatives, cutting-edge methodologies, and innovative solutions. At Digital Teja Solutions, we help our clients grow their businesses by leveraging multiple digital marketing platforms and channels.",
 
   description:
     "Digital marketing strategies are evolving rapidly, with top companies in every industry leveraging the extensive reach of digital channels. Modern digital marketing encompasses SEO, SEM, content marketing, campaign promotions, and e-commerce advertising. It also extends to offline channels that support digital platforms, including mobile marketing, email, social media marketing, e-books, video advertising, display ads, and various other forms of advanced digital media.",
@@ -941,10 +941,10 @@ window.SERVICES_DATA = {
     "assets/services/digital-marketing-values.jpg",
 
   valuesTitle:
-    "UpTrendTek Agency Values",
+    "Digital Teja Solutions Agency Values",
 
   valuesText:
-    "At uptrendtek our culture comes to life through three core values:",
+    "At Digital Teja Solutions our culture comes to life through three core values:",
 
   valuesList: [
     "We seize opportunities to innovate and grow",

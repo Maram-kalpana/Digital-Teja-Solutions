@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.title =
     service.pageTitle ||
-    `${service.title} | UpTrendTek`;
+    `${service.title} | Digital Teja Solutions`;
 
   root.innerHTML = `
     ${renderServiceBanner(service)}
@@ -2303,7 +2303,7 @@ function renderDigitalMarketing(service) {
                 ${renderImage(
                   service.secondaryImage,
                   service.valuesTitle ||
-                  "UpTrendTek Agency Values"
+                  "Digital Teja Solutions Agency Values"
                 )}
               </div>
             `
@@ -2320,7 +2320,7 @@ function renderDigitalMarketing(service) {
         >
           ${renderHeading(
             service.valuesTitle ||
-            "UpTrendTek Agency Values"
+            "Digital Teja Solutions Agency Values"
           )}
 
           ${
@@ -2918,7 +2918,7 @@ function renderContactSection(service) {
 
           ${renderImage(
             contactImage,
-            "Contact UpTrendTek"
+            "Contact Digital Teja Solutions"
           )}
 
           <div
@@ -2963,7 +2963,8 @@ function renderContactSection(service) {
                   </small>
 
                   <strong>
-                    +1 430 221 2038
+                    +91 93460 07248
+8
                   </strong>
 
                 </div>
@@ -2971,7 +2972,7 @@ function renderContactSection(service) {
               </a>
 
               <a
-                href="mailto:hr@uptrendtllc.com"
+                href="mailto:digitaltejasolutions@gmail.com "
               >
 
                 <i
@@ -2986,7 +2987,7 @@ function renderContactSection(service) {
                   </small>
 
                   <strong>
-                    hr@uptrendtllc.com
+                    digitaltejasolutions@gmail.com 
                   </strong>
 
                 </div>
@@ -3764,7 +3765,7 @@ function initializeImageErrors() {
 
 function renderNotFound(root) {
   document.title =
-    "Service Not Found | UpTrendTek";
+    "Service Not Found | Digital Teja Solutions";
 
   root.innerHTML = `
     <section class="service-not-found">

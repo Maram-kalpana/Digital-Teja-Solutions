@@ -17,22 +17,22 @@ const sharedFooterPlaceholder =
 ========================================================= */
 
 const companyDetails = {
-  companyName: "UpTrendTek",
+  companyName: "Digital Teja Solutions",
 
   address:
-    "Suite 600, Germantown, MD 208",
+    " Naidupet, Koritepadu,Guntur, Andhra Pradesh 522007",
 
   email:
-    "hr@uptrendtllc.com",
+    "digitaltejasolutions@gmail.com ",
 
   phoneDisplay:
-    "+1 430 221 2038",
+    "+91 93460 07248",
 
   phoneLink:
-    "+14302212038",
+    "+919346007248",
 
   whatsappNumber:
-    "14302212038",
+    "+919346007248",
 };
 
 /* =========================================================
@@ -171,7 +171,7 @@ const siteHeaderTemplate = `
             )}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Open UpTrendTek location in Google Maps"
+            aria-label="Open Digital Teja Solutions location in Google Maps"
           >
             <i
               class="fa-solid fa-location-dot"
@@ -214,7 +214,7 @@ const siteHeaderTemplate = `
             href="${socialLinks.twitter}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Twitter"
+            aria-label="Visit Digital Teja Solutions on Twitter"
           >
             <i
               class="fa-brands fa-x-twitter"
@@ -228,7 +228,7 @@ const siteHeaderTemplate = `
             href="${socialLinks.facebook}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Facebook"
+            aria-label="Visit Digital Teja Solutions on Facebook"
           >
             <i
               class="fa-brands fa-facebook-f"
@@ -242,7 +242,7 @@ const siteHeaderTemplate = `
             href="${socialLinks.linkedin}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on LinkedIn"
+            aria-label="Visit Digital Teja Solutions on LinkedIn"
           >
             <i
               class="fa-brands fa-linkedin-in"
@@ -256,7 +256,7 @@ const siteHeaderTemplate = `
             href="${socialLinks.instagram}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Instagram"
+            aria-label="Visit Digital Teja Solutions on Instagram"
           >
             <i
               class="fa-brands fa-instagram"
@@ -630,7 +630,7 @@ const siteHeaderTemplate = `
             href="${socialLinks.twitter}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Twitter"
+            aria-label="Visit Digital Teja Solutions on Twitter"
           >
             <i
               class="fa-brands fa-x-twitter"
@@ -644,7 +644,7 @@ const siteHeaderTemplate = `
             href="${socialLinks.facebook}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Facebook"
+            aria-label="Visit Digital Teja Solutions on Facebook"
           >
             <i
               class="fa-brands fa-facebook-f"
@@ -658,7 +658,7 @@ const siteHeaderTemplate = `
             href="${socialLinks.linkedin}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on LinkedIn"
+            aria-label="Visit Digital Teja Solutions on LinkedIn"
           >
             <i
               class="fa-brands fa-linkedin-in"
@@ -672,7 +672,7 @@ const siteHeaderTemplate = `
             href="${socialLinks.instagram}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Instagram"
+            aria-label="Visit Digital Teja Solutions on Instagram"
           >
             <i
               class="fa-brands fa-instagram"
@@ -719,7 +719,7 @@ const siteFooterTemplate = `
         </a>
 
         <p class="footer-description">
-          UpTrendTek delivers reliable technology solutions,
+          Digital Teja Solutions delivers reliable technology solutions,
           software development, application development,
           IT consulting, staffing and digital services that
           help businesses grow and succeed.
@@ -738,7 +738,7 @@ const siteFooterTemplate = `
             href="${socialLinks.twitter}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Twitter"
+            aria-label="Visit Digital Teja Solutions on Twitter"
           >
             <i
               class="fa-brands fa-x-twitter"
@@ -752,7 +752,7 @@ const siteFooterTemplate = `
             href="${socialLinks.facebook}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Facebook"
+            aria-label="Visit Digital Teja Solutions on Facebook"
           >
             <i
               class="fa-brands fa-facebook-f"
@@ -766,7 +766,7 @@ const siteFooterTemplate = `
             href="${socialLinks.linkedin}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on LinkedIn"
+            aria-label="Visit Digital Teja Solutions on LinkedIn"
           >
             <i
               class="fa-brands fa-linkedin-in"
@@ -780,7 +780,7 @@ const siteFooterTemplate = `
             href="${socialLinks.instagram}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Visit UpTrendTek on Instagram"
+            aria-label="Visit Digital Teja Solutions on Instagram"
           >
             <i
               class="fa-brands fa-instagram"
@@ -898,7 +898,7 @@ const siteFooterTemplate = `
             )}"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Open UpTrendTek address in Google Maps"
+            aria-label="Open Digital Teja Solutions address in Google Maps"
           >
             ${companyDetails.address}
           </a>
@@ -1399,7 +1399,7 @@ whatsappButton.className =
 whatsappButton.href =
   `https://wa.me/${companyDetails.whatsappNumber}` +
   `?text=${encodeURIComponent(
-    "Hello UpTrendTek, I would like to discuss a business or technology requirement."
+    "Hello Digital Teja Solutions, I would like to discuss a business or technology requirement."
   )}`;
 
 whatsappButton.target =
@@ -1410,7 +1410,7 @@ whatsappButton.rel =
 
 whatsappButton.setAttribute(
   "aria-label",
-  "Chat with UpTrendTek on WhatsApp"
+  "Chat with Digital Teja Solutions on WhatsApp"
 );
 
 whatsappButton.innerHTML = `

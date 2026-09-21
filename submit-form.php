@@ -37,8 +37,8 @@ if ($_SERVER["REQUEST_METHOD"] !== "POST") {
 |
 */
 
-$recipientEmail = "hr@uptrendtllc.com";
-$websiteName = "UpTrendTek";
+$recipientEmail = "hr@digitaltejasolutions.com";
+$websiteName = "Digital Teja Solutions";
 
 /*
 |--------------------------------------------------------------------------
@@ -187,7 +187,7 @@ $safeSubject = str_replace(
 );
 
 $emailSubject =
-    "[UpTrendTek Website] " .
+    "[Digital Teja Solutions Website] " .
     $safeSubject .
     " - " .
     $service;
@@ -199,7 +199,7 @@ $emailSubject =
 */
 
 $emailBody = "
-A new enquiry has been submitted from the UpTrendTek website.
+A new enquiry has been submitted from the Digital Teja Solutions website.
 
 --------------------------------------------------
 FORM DETAILS
@@ -227,7 +227,7 @@ Submitted Date : " . date("d M Y, h:i A") . "
 IP Address     : " . ($_SERVER["REMOTE_ADDR"] ?? "Unknown") . "
 
 --------------------------------------------------
-This message was sent from the UpTrendTek website.
+This message was sent from the Digital Teja Solutions website.
 ";
 
 /*
@@ -267,7 +267,7 @@ $mailSent = mail(
 
 if (!$mailSent) {
     error_log(
-        "UpTrendTek contact email failed. " .
+        "Digital Teja Solutions contact email failed. " .
         "Name: {$name}, Email: {$email}, Service: {$service}"
     );
 

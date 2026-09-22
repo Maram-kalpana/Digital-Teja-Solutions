@@ -1126,8 +1126,8 @@ span:nth-child(3) {
 ========================================================= */
 
 .footer-logo-box {
-  width: 110px;
-  height: 110px;
+  width: 120px;
+  height: 40px;
   min-height: 0;
 
   display: flex;
